@@ -1,16 +1,30 @@
-## Hi there 👋
+# Vladislav Popov
 
-<!--
-**devladpopov/devladpopov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building AI-native infrastructure for solo founders.
 
-Here are some ideas to get you started:
+15 years in EdTech (StudyQA, 4M+ users/year). Now running the company with AI agents instead of departments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I build
+
+**AI agent orchestration** — a 107-topic system where Claude Code handles support, content, analytics, and product decisions through Telegram.
+
+**MCP servers** — tools that let AI agents manage real infrastructure: Windows admin, content publishing, monitoring.
+
+**EdTech + AI** — Anthropic Academy (16 translated courses), AI-powered university matching, automated content pipelines.
+
+## Open source
+
+| Repo | What it does |
+|------|-------------|
+| [windows-admin-mcp](https://github.com/devladpopov/windows-admin-mcp) | 42 tools for managing Windows via MCP |
+| [teleclaude](https://github.com/devladpopov/teleclaude) | Route Telegram topics to Claude Code sessions |
+| [publish-mcp](https://github.com/devladpopov/publish-mcp) | Publish to Telegram, VK, Threads from one AI prompt |
+| [claude-habitat](https://github.com/devladpopov/claude-habitat) | Claude builds its own dev environment |
+
+## Writing
+
+Technical articles on [Habr](https://habr.com/ru/users/StudyQA/) (100K+ total views) and [vladislavpopov.ru](https://vladislavpopov.ru)
+
+## Stack
+
+TypeScript, Laravel/PHP, Node.js, Claude API, MCP protocol, Docker, PostgreSQL
